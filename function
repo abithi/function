@@ -1,0 +1,30 @@
+#funcn always defion as def(): keyword
+def abi():
+    print("how is hanyeaa" )
+abi()
+print("==addition==")
+def add():
+    print ("adition of two number")
+    a=int(input("enter the values of a:"))
+    b=int(input("enter the values of b:"))
+    print("result:",a+b)
+add()
+def sub():
+    print("subraction of two number")
+    a=int(input("enter the values of a:"))
+    b=int(input("enter the values of b:"))
+    print("result:",a-b)
+sub()
+def mul():
+    print("multiplication of two number")
+    a=int(input("enter the value of a:"))
+    b=int(input("enter the value of b:"))
+    print("result:",a*b)
+mul()
+
+def div():
+    print("division of two number")
+    a=int(input("enter the values of a:"))
+    b=int(input("enter the values of b:"))
+    print("result:",a/b)
+div()
